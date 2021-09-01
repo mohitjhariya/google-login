@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16523854481",
+    "project_id": "mcq-app-6996a",
+    "storage_bucket": "mcq-app-6996a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16523854481:android:592b67deba1106522e3530",
+        "android_client_info": {
+          "package_name": "com.techboon.mcq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16523854481-0pkqqc7be6pjhf4kq31luda7kcv1eied.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NPqCG8PG_liVXIhjczAhIIqOcndyqiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16523854481-0pkqqc7be6pjhf4kq31luda7kcv1eied.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
